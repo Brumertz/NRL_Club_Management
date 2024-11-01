@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database_NRLClubModelStoreContainer" CdmEntityContainer="Database_NRLClubEntities">
+    <EntitySetMapping Name="Clubs">
+      <EntityTypeMapping TypeName="Database_NRLClubModel.Club">
+        <MappingFragment StoreEntitySet="Club">
+          <ScalarProperty Name="ClubID" ColumnName="ClubID" />
+          <ScalarProperty Name="ClubName" ColumnName="ClubName" />
+          <ScalarProperty Name="HomeCity" ColumnName="HomeCity" />
+          <ScalarProperty Name="CoachName" ColumnName="CoachName" />
+          <ScalarProperty Name="Stadium" ColumnName="Stadium" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ladders">
+      <EntityTypeMapping TypeName="Database_NRLClubModel.Ladder">
+        <MappingFragment StoreEntitySet="Ladder">
+          <ScalarProperty Name="LadderID" ColumnName="LadderID" />
+          <ScalarProperty Name="ClubID" ColumnName="ClubID" />
+          <ScalarProperty Name="Position" ColumnName="Position" />
+          <ScalarProperty Name="Points" ColumnName="Points" />
+          <ScalarProperty Name="GamesWon" ColumnName="GamesWon" />
+          <ScalarProperty Name="GamesLost" ColumnName="GamesLost" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Players">
+      <EntityTypeMapping TypeName="Database_NRLClubModel.Player">
+        <MappingFragment StoreEntitySet="Player">
+          <ScalarProperty Name="PlayerID" ColumnName="PlayerID" />
+          <ScalarProperty Name="PlayerName" ColumnName="PlayerName" />
+          <ScalarProperty Name="Position" ColumnName="Position" />
+          <ScalarProperty Name="ClubID" ColumnName="ClubID" />
+          <ScalarProperty Name="Stats" ColumnName="Stats" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

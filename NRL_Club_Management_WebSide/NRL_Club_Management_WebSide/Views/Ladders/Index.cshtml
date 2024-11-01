@@ -1,0 +1,57 @@
+﻿@model IEnumerable<NRL_Club_Management_WebSide.Ladder>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Position)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Points)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GamesWon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GamesLost)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Club.ClubName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Position)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Points)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GamesWon)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GamesLost)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Club.ClubName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.LadderID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.LadderID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.LadderID })
+        </td>
+    </tr>
+}
+
+</table>
