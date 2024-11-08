@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="DBNRLClub.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\30085204\SOURCE\REPOS\PROJECT SQL\NRL_CLUB_MANAGEMENT\DBNRLCLUB\DBNRLCLUB\OBJ\DEBUG\DBNRLCLUB.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\30085204\DESKTOP\NRL_CLUB_MANAGEMENT\DBNRLCLUB\DBNRLCLUB\OBJ\DEBUG\DBNRLCLUB.DLL" />
 			<Metadata Name="AssemblyName" Value="DBNRLClub" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\30085204\source\repos\Project Sql\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\30085204\Desktop\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
@@ -274,23 +274,6 @@
 									<Relationship Name="Type">
 										<Entry>
 											<References ExternalSource="BuiltIns" Name="[int]" />
-										</Entry>
-									</Relationship>
-								</Element>
-							</Entry>
-						</Relationship>
-					</Element>
-				</Entry>
-				<Entry>
-					<Element Type="SqlSimpleColumn" Name="[dbo].[Ladder].[TeamName]">
-						<Property Name="IsNullable" Value="False" />
-						<Relationship Name="TypeSpecifier">
-							<Entry>
-								<Element Type="SqlTypeSpecifier">
-									<Property Name="Length" Value="1" />
-									<Relationship Name="Type">
-										<Entry>
-											<References ExternalSource="BuiltIns" Name="[nvarchar]" />
 										</Entry>
 									</Relationship>
 								</Element>

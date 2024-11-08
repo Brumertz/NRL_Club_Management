@@ -6,3 +6,4 @@
     [CoachName] NVARCHAR(100) NOT NULL,
     [Stadium] NVARCHAR(100) NOT NULL
 );
+GO 

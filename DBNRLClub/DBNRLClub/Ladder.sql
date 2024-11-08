@@ -1,8 +1,6 @@
-﻿CREATE TABLE [dbo].[Ladder]
-(
-    [LadderID] INT IDENTITY(1, 1) PRIMARY KEY,  -- ID auto-incremental
-    [ClubID] INT NOT NULL,
-    [TeamName] NVARCHAR NOT NULL,
+﻿CREATE TABLE [dbo].[Ladder] (
+    [LadderID] INT IDENTITY(1, 1) PRIMARY KEY,  -- Auto-increment ID
+    [ClubID] INT NOT NULL,                      -- Reference to Club table
     [Position] INT NOT NULL,
     [Played] INT NOT NULL,
     [Points] INT NOT NULL,
@@ -16,3 +14,5 @@
     
     FOREIGN KEY ([ClubID]) REFERENCES [dbo].[Club]([ClubID]) ON DELETE CASCADE
 );
+Go
+
