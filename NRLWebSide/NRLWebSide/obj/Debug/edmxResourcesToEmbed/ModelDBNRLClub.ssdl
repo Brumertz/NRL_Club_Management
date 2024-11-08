@@ -16,7 +16,6 @@
     </Key>
     <Property Name="LadderID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="ClubID" Type="int" Nullable="false" />
-    <Property Name="TeamName" Type="int" Nullable="false" />
     <Property Name="Position" Type="int" Nullable="false" />
     <Property Name="Played" Type="int" Nullable="false" />
     <Property Name="Points" Type="int" Nullable="false" />

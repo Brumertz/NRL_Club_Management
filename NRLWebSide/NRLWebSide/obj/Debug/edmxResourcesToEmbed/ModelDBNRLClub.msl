@@ -17,7 +17,6 @@
         <MappingFragment StoreEntitySet="Ladder">
           <ScalarProperty Name="LadderID" ColumnName="LadderID" />
           <ScalarProperty Name="ClubID" ColumnName="ClubID" />
-          <ScalarProperty Name="TeamName" ColumnName="TeamName" />
           <ScalarProperty Name="Position" ColumnName="Position" />
           <ScalarProperty Name="Played" ColumnName="Played" />
           <ScalarProperty Name="Points" ColumnName="Points" />

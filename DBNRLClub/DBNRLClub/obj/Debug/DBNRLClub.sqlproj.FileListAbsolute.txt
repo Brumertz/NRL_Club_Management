@@ -24,3 +24,13 @@ C:\Users\30085204\Desktop\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\Mode
 C:\Users\30085204\Desktop\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\refactor.xml
 C:\Users\30085204\Desktop\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\postdeploy.sql
 C:\Users\30085204\Desktop\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\predeploy.sql
+C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\bin\Debug\DBNRLClub.dacpac
+C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\bin\Debug\DBNRLClub.dll
+C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\bin\Debug\DBNRLClub.pdb
+C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.sqlproj.AssemblyReference.cache
+C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.dll
+C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.pdb
+C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\Model.xml
+C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\refactor.xml
+C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\postdeploy.sql
+C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\predeploy.sql
