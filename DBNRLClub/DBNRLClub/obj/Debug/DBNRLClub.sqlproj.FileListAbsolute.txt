@@ -1,0 +1,16 @@
+C:\Users\30085204\Desktop\DBNRLClub\DBNRLClub\bin\Debug\DBNRLClub.dacpac
+C:\Users\30085204\Desktop\DBNRLClub\DBNRLClub\bin\Debug\DBNRLClub.dll
+C:\Users\30085204\Desktop\DBNRLClub\DBNRLClub\bin\Debug\DBNRLClub.pdb
+C:\Users\30085204\Desktop\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.sqlproj.AssemblyReference.cache
+C:\Users\30085204\Desktop\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.dll
+C:\Users\30085204\Desktop\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.pdb
+C:\Users\30085204\source\repos\Project Sql\NRL_Club_Management\DBNRLClub\DBNRLClub\bin\Debug\DBNRLClub.dacpac
+C:\Users\30085204\source\repos\Project Sql\NRL_Club_Management\DBNRLClub\DBNRLClub\bin\Debug\DBNRLClub.dll
+C:\Users\30085204\source\repos\Project Sql\NRL_Club_Management\DBNRLClub\DBNRLClub\bin\Debug\DBNRLClub.pdb
+C:\Users\30085204\source\repos\Project Sql\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.sqlproj.AssemblyReference.cache
+C:\Users\30085204\source\repos\Project Sql\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\Model.xml
+C:\Users\30085204\source\repos\Project Sql\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\refactor.xml
+C:\Users\30085204\source\repos\Project Sql\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\postdeploy.sql
+C:\Users\30085204\source\repos\Project Sql\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\predeploy.sql
+C:\Users\30085204\source\repos\Project Sql\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.dll
+C:\Users\30085204\source\repos\Project Sql\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.pdb
