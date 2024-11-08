@@ -34,3 +34,9 @@ C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debu
 C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\refactor.xml
 C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\postdeploy.sql
 C:\Users\nbran\Documents\GitHub\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\predeploy.sql
+C:\Users\nbran\Desktop\NRL_Club_Management\DBNRLClub\DBNRLClub\bin\Debug\DBNRLClub.dacpac
+C:\Users\nbran\Desktop\NRL_Club_Management\DBNRLClub\DBNRLClub\bin\Debug\DBNRLClub.dll
+C:\Users\nbran\Desktop\NRL_Club_Management\DBNRLClub\DBNRLClub\bin\Debug\DBNRLClub.pdb
+C:\Users\nbran\Desktop\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.sqlproj.AssemblyReference.cache
+C:\Users\nbran\Desktop\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.dll
+C:\Users\nbran\Desktop\NRL_Club_Management\DBNRLClub\DBNRLClub\obj\Debug\DBNRLClub.pdb

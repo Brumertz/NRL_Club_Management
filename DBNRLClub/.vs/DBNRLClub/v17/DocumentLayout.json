@@ -1,12 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nbran\\Documents\\GitHub\\NRL_Club_Management\\DBNRLClub\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\nbran\\Desktop\\NRL_Club_Management\\DBNRLClub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/DBNRLClub/True/SqlTable/dbo.Club.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/DBNRLClub/True/SqlTable/dbo.Ladder.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Club [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/DBNRLClub/True/SqlTable/dbo.Club.sql",
+              "ToolTip": "dbo.Club [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-08T15:10:33.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Ladder [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/DBNRLClub/True/SqlTable/dbo.Ladder.sql",
+              "ToolTip": "dbo.Ladder [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-08T14:51:18.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
