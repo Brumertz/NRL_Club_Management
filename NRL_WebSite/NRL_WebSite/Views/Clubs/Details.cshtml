@@ -1,0 +1,50 @@
+﻿@model NRL_WebSite.Club
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Club</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TeamName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TeamName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HomeCity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HomeCity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CoachName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CoachName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Stadium)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stadium)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ClubID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
